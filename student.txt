@@ -1,0 +1,13 @@
+#tail -n 5 student.txt
+#sort -t'|' -k2 student.txt
+#sort -t'|' -k4,4nr student.txt|head -n 5 > Topper.txt
+01|Soumali|CS|580
+02|Supriyo CS|340
+03|Debjani|MCA|580
+04|Aditi|MCA|580
+05|Swarnali|MCA|580
+06|Saqib|IT|580
+07|Anumay|IT|690
+08|Kaushik|History|580
+09|Snehashish|PoliScience|580
+10|Sharmistha|Bengali|580
