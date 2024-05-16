@@ -1,0 +1,11 @@
+sum=0
+for arg in "$@"
+do
+
+if [ "$arg" -gt 0 ] 
+then
+sum=`expr $sum + $arg`
+fi
+
+done
+echo $sum
