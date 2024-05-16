@@ -1,0 +1,13 @@
+#head -n 5 employees.txt
+#sort -k5 -nr employee.txt | head -n 2
+#cut -d' ' -f1,2,3,5 employees.txt
+01 Soumali Mukherjee Manager 75000
+02 Soumali Mukherjee Assistant_Manager 70000
+03 Soumali Mukherjee Project_Head 70000
+04 Soumali Mukherjee Developer 65000
+05 Soumali Mukherjee Developer 65000
+06 Soumali Mukherjee Developer 65000
+07 Soumali Mukherjee Fresher 60000
+08 Soumali Mukherjee Fresher 60000
+09 Soumali Mukherjee Fresher 60000
+10 Soumali Mukherjee Fresher 60000
